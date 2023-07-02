@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilwagh03&label=Profile%20views&color=0e75b6&style=flat" alt="sahilwagh03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilwagh03" alt="sahilwagh03" /></a> </p>
 
 - 🔭 I’m currently working on [Readme Generator](https://readme-generator-sigma.vercel.app/)
 
